@@ -17,6 +17,7 @@ This repository contains various integrated circuit (IC) designs and system mode
 ---
 
 ## Logic Gate Modelling
+<img src="Pictures/FA.png" alt="Full Adder" width="500">
 
 - **Models:**
   - Half-Adder (HA)
@@ -32,6 +33,7 @@ This repository contains various integrated circuit (IC) designs and system mode
 ---
 
 ## Buffer and Frequency Divider Modelling
+<img src="Pictures/Freq Divider.png" alt="Frequency Divider" width="500">
 
 - **Models:**
   - Multi-Place Buffers (FIFO, LIFO)
@@ -44,6 +46,7 @@ This repository contains various integrated circuit (IC) designs and system mode
 ---
 
 ## Arbitration Systems
+<img src="Pictures/Dining.png" alt="Dinning Philosophers" width="500">
 
 - **Model:**
   - Dining Philosophers Problem
@@ -54,6 +57,7 @@ This repository contains various integrated circuit (IC) designs and system mode
 ---
 
 ## Simple CPU Design
+<img src="Pictures/AMP.png" alt="CPU Design" width="500">
 
 - **Components:**
   - Accumulator (Acc)
@@ -78,6 +82,8 @@ This repository contains various integrated circuit (IC) designs and system mode
 ---
 
 ## Multi-Place Buffer Design
+<img src="Pictures/One_Place.png" alt="One Place" width="500">
+<img src="Pictures/One_Place_circuit.png" alt="One Place Circuit" width="500">
 
 - **Models:**
   - Refined FIFO buffers and frequency dividers.
@@ -89,6 +95,8 @@ This repository contains various integrated circuit (IC) designs and system mode
 ---
 
 ## Asynchronous Controller Circuits
+<img src="Pictures/IF.png" alt="IF command" height="400">
+<img src="Pictures/IF_Diagram.png" alt="IF command Working" width="500">
 
 - **Models:**
   - `IF` Conditional Circuit
@@ -98,9 +106,3 @@ This repository contains various integrated circuit (IC) designs and system mode
   - Managed delay insensitivity and synchronization challenges.
 
 ---
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone git@github.com:<username>/IC-Design.git
